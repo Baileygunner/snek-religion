@@ -1,0 +1,16 @@
+
+country_decisions = {
+	snek_mod_credits = {
+		major = yes
+
+		potential = {
+			ai = no
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			set_country_flag = snekreligion_credits_flag
+		}
+	}
+}
